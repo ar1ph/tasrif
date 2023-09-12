@@ -16,3 +16,4 @@ from tasrif.processing_pipeline.observers.groupby_logging_observer import (
     GroupbyLoggingOperator,
 )
 from tasrif.processing_pipeline.observers.logging_observer import LoggingObserver
+from tasrif.processing_pipeline.observers.chat_observer import ChatObserver
